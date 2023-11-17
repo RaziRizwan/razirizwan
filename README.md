@@ -1,4 +1,4 @@
-Hi, I’m @razirizwan56
+Hi, I’m @RaziRizwan
 I’m interested in java
 
 <!---
